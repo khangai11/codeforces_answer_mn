@@ -1,21 +1,17 @@
 [Codeforces Round #788 (Div. 2)](https://codeforces.com/contest/1670)  
 
 * [Problem A](https://codeforces.com/contest/1670/problem/A)  
-[solution](a.md)  
+[solution](A.md)  
 
 * [Problem B](https://codeforces.com/contest/1670/problem/B)  
-[solution](b.md)
+[solution](B.md)
 
 * [Problem C](https://codeforces.com/contest/1670/problem/C)  
-[solution](c.md)
+[solution](C.md)
 
 * [Problem D](https://codeforces.com/contest/1670/problem/D)  
-[solution](d.md)  
+[solution](D.md)  
 
 * [Problem E](https://codeforces.com/contest/1670/problem/E)  
-[solution](e.md)  
+[solution](E.md)  
 
-* [Problem F](https://codeforces.com/contest/1670/problem/F)  
-[solution](f.md)
-
-* [Problem G](https://codeforces.com/contest/1670/problem/G)  
