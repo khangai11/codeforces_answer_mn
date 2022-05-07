@@ -1,4 +1,5 @@
 Contest URL: https://codeforces.com/contest/1670
+
 Contest date: 2022/05/06 22:35(MNG)
 
 A: https://codeforces.com/contest/1670/problem/A
