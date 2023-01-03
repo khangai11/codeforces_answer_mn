@@ -1,4 +1,4 @@
-[Codeforces Beta Round #5](https://codeforces.com/contest/5)  
+[Codeforces Beta Round #5](https://codeforces.com/contest/6)  
 
-* [Problem C](https://codeforces.com/contest/5/problem/C)  
-[solution](c.md)
+* [Problem E](https://codeforces.com/contest/6/problem/E)  
+[solution](e.md)
