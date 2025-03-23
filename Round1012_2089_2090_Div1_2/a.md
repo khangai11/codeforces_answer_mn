@@ -13,13 +13,13 @@
 
 $i$ | $p_i$ | $s_i$ | $c_i$  
 ------------- | ------------- | ------------- | -------------
-$1$  | $x$ | $x$ | $\left \lceil \dfrac{x}{1} \right \rceil = x$
+$1$  | $x$ | $x$ | $\left\lceil \dfrac{x}{1} \right\rceil = x$
 $2$  | $x-1$ | $2x-1$ | $\left\lceil \dfrac{2x-1}{2} \right\rceil = \left\lceil x-\dfrac{1}{2} \right\rceil = x$
-$3$  | $x+1$ | $3x$ | $\left \lceil \dfrac{3x}{3} \right \rceil = x$
+$3$  | $x+1$ | $3x$ | $\left\lceil \dfrac{3x}{3} \right\rceil = x$
 $4$  | $x-2$ | $4x-2$ | $\left\lceil \dfrac{4x-2}{4} \right\rceil = \left\lceil x-\dfrac{1}{2} \right\rceil = x$
-$5$  | $x+2$ | $5x$ | $\left \lceil \dfrac{5x}{5} \right \rceil = x$
+$5$  | $x+2$ | $5x$ | $\left\lceil \dfrac{5x}{5} \right \rceil = x$
 $6$  | $x-3$ | $6x-3$ | $\left\lceil \dfrac{6x-3}{6} \right\rceil = \left\lceil x-\dfrac{1}{2} \right\rceil = x$
-$7$  | $x+3$ | $7x$ | $\left \lceil \dfrac{7x}{7} \right \rceil = x$
+$7$  | $x+3$ | $7x$ | $\left\lceil \dfrac{7x}{7} \right\rceil = x$
 
 Иймд $c$-ийн эхний $1+2(x-1)$ утгыг $x$ байлгаж чадна.  
 $1$-ээс их бүхэл $m$-ийн хувьд $m<p<2m$ байх $p$ анхны тоо олддог болохоор цэнхэр хэсэгт анхны тоо байгаа ($n/4, n/2$ бүхэл биш ч гэсэн ер нь гайгүй, олдохгүй бол баруун талд нь ойрхон олдоно).  Тэр тоог сонговол ядаж $n/2$ хавьцаа хүртэл $i$-ийн хувьд $c_i=x$ байлгаж чадна.
