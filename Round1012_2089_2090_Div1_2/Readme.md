@@ -9,3 +9,6 @@
 
 * [Problem D1C1/D2F1](https://codeforces.com/contest/2089/problem/C1)  
 [solution](c1.md)  
+
+* [Problem D1D](https://codeforces.com/contest/2089/problem/D)  
+[solution](d.md)  
