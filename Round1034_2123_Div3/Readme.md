@@ -1,4 +1,4 @@
-[Codeforces Round 1034 (Div. 3)](https://codeforces.com/contests/2123)  
+<a href="https://codeforces.com/contests/2123" target="_blank">Codeforces Round 1034 (Div. 3)</a>
 
 * [Problem A](https://codeforces.com/contest/2123/problem/A)  
 [solution](a.md)  
